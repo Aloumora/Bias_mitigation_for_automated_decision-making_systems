@@ -8,8 +8,8 @@ I suggest you to read his [LaTeX](https://bitsilla.com/blog/2019/01/latex-tips-f
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-This work is licensed under a
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+This content of this work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa], whereas the LaTex code is licensed under GNU General Public License v3.0 (as published by the original owner).
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
